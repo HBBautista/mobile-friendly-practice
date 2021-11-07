@@ -42,3 +42,14 @@ footer{
     padding-bottom: 50px;
     padding-left: 80px;
 }
+.change.me
+{
+    color: lightblue;
+}
+.media (max-width: 600px)
+{
+    .change.me
+    {
+        color: 
+    }
+}
